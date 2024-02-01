@@ -20,17 +20,17 @@ The Library Management System includes models representing books and library use
    git clone https://github.com/your-username/library-management-system.git
 Install dependencies:
 
-bash
+
 Copy code
 pip install -r requirements.txt
 Run database migrations:
 
-bash
+
 Copy code
 python manage.py migrate
 Start the development server:
 
-bash
+
 Copy code
 python manage.py runserver
 Access the API at http://127.0.0.1:8000/api/
